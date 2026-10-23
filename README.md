@@ -6,7 +6,7 @@ QDPT 使用约 1.865 M 可训练参数，在 PathVQA 三个训练 seed 上取得
 
 ## 使用
 
-本目录提供 PathVQA 的训练与评分。准备好 Qwen3-VL 模型和 PathVQA 数据，数据目录中放置 `train-*.parquet`、`validation-*.parquet` 和 `test-*.parquet`。
+本目录提供 PathVQA 的训练与评分。准备好 **Qwen3-VL-4B-Instruct** 模型和 PathVQA 数据，数据目录中放置 `train-*.parquet`、`validation-*.parquet` 和 `test-*.parquet`。
 
 在本目录安装依赖：
 
